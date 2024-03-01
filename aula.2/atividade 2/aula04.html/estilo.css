@@ -1,0 +1,28 @@
+p{
+color: blue;
+text-align: center;
+}
+
+.cor{
+    color: aqua;
+    font-size: 32px;
+    text-align: center;
+}
+
+#texto{
+    color: chartreuse;
+    border: 6px solid black;
+    text-align:center
+    
+}
+
+#texto{
+    color:brown;
+    border: 6px solid black;
+    text-align: center;
+}
+
+p:hover{
+    color: black;
+}
+
